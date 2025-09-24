@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shashwat Singh Gaur</h1>
 <h3 align="center">💻 Learning Full-Stack Java Development | 🐍 Python | 🌐 Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatsinghgaur0412&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatsinghgaur0412" /> </p>
+- 🔭 I’m currently working on **real-life projects focused on Java and web-based solutions**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwatsinghgaur0412" alt="shashwatsinghgaur0412" /></a> </p>
+- 🌱 I’m currently learning **Full-Stack Java Development, Python, and Web Development**  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 👯 I’m looking to collaborate on **open-source web projects or backend-focused applications**  
 
-- 🔭 I’m currently working on **Real-life projects like **Eshops** – focused on building practical Android and web-based solutions.**
-
-- 🌱 I’m currently learning **Java, Web Development, Flutter & Dart – continuously sharpening my skills across platforms.**
-
-- 👯 I’m looking to collaborate on **Open source Android projects or small utility apps in Java**
-
-- 🤝 I’m looking for help with **Improving UI/UX in Android apps and exploring clean architecture**
+- 🤝 I’m looking for help with **building scalable full-stack apps and exploring clean architecture**  
 
 - 📫 How to reach me **[LinkedIn – Shashwat Singh Gaur](https://www.linkedin.com/in/shashwat-singh-gaur-34a782226/)**
 
