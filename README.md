@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Singh Gaur</h1>
-<h3 align="center">📱 Android & 💻 Java Desktop App Developer | ☕ Passionate About Mobile Apps | 🌐 Learning Web Development</h3>
+<h3 align="center">💻 Learning Full-Stack Java Development | 🐍 Python | 🌐 Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatsinghgaur0412&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatsinghgaur0412" /> </p>
 
