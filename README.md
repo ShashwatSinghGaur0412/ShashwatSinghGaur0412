@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shashwat Singh Gaur</h1>
 <h3 align="center">💻 Learning Full-Stack Java Development | 🐍 Python | 🌐 Web Development</h3>
 
-- 🔭 I’m currently working on **real-life projects focused on Java and web-based solutions**  
+- 🔭 I’m currently working on **real-life projects focused on Java and web-based solutions** 🚀✨  
 
-- 🌱 I’m currently learning **Full-Stack Java Development, Python, and Web Development**  
+- 🌱 I’m currently learning **Full-Stack Java Development, Python, and Web Development** 🌐📚  
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/developer.gif" width="35px">  
 
-- 👯 I’m looking to collaborate on **open-source web projects or backend-focused applications**  
+- 👯 I’m looking to collaborate on **open-source web projects or backend-focused applications** 🤝💻  
 
-- 🤝 I’m looking for help with **building scalable full-stack apps and exploring clean architecture**  
+- 🤝 I’m looking for help with **building scalable full-stack apps and exploring clean architecture** 🏗️⚡  
+
 
 - 📫 How to reach me **[LinkedIn – Shashwat Singh Gaur](https://www.linkedin.com/in/shashwat-singh-gaur-34a782226/)**
 
