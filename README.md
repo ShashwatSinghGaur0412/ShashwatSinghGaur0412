@@ -23,28 +23,14 @@
 
 ---
 
-### 🛠 Tech & Tools (learning / using)
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" title="Java" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" title="Git" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudiocode/visualstudiocode-icon.svg" width="36" height="36" title="VS Code" />
-</p>
-
+### 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ---
 
-### 🚧 Projects (in progress)
-- **Personal Portfolio** — Live portfolio to showcase projects & blog. 🔜  
-- **Eshop (mini)** — Product listing, cart, backend APIs (Java/Python). 🔜  
-- **Blog CMS** — Create/edit posts, comments, auth. 🔜
-
+### 🚧 Projects
+- **HostelBuddy** — Hostel Management System. 🔜  
+- **QuizCore** — Quiz Game Test For Students and Quiz Management System For Teachers. 🔜
 ---
 
 ### 📫 Contact
@@ -60,10 +46,6 @@
 </p>
 
 
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
