@@ -18,12 +18,8 @@
 
 ---
 
-### 🔭 About / Current Focus
-- 🔭 I’m currently working on **real-life projects focused on Java and web-based solutions** 🚀✨  
-- 🌱 I’m learning **Full-Stack Java Development, Python, and Web Development** 🌐📚  
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/developer.gif" width="28px" alt="dev-gif" />  
-- 👯 I’m looking to collaborate on **open-source web projects or backend-focused applications** 🤝💻  
-- 🤝 I’m looking for help with **building scalable full-stack apps and exploring clean architecture** 🏗️⚡
+### 💫 About Me:
+- 🔭 I’m currently working on **real-life projects focused on Java and web-based solutions** 🚀✨  <br><br>- 🌱 I’m currently learning **Full-Stack Java Development, Python, and Web Development** 🌐📚  <br><br>- 👯 I’m looking to collaborate on **open-source web projects or backend-focused applications** 🤝💻  <br><br>- 🤝 I’m looking for help with **building scalable full-stack apps and exploring clean architecture** 🏗️⚡  
 
 ---
 
@@ -64,8 +60,6 @@
 </p>
 
 
-# 💫 About Me:
-- 🔭 I’m currently working on **real-life projects focused on Java and web-based solutions** 🚀✨  <br><br>- 🌱 I’m currently learning **Full-Stack Java Development, Python, and Web Development** 🌐📚  <br><br>- 👯 I’m looking to collaborate on **open-source web projects or backend-focused applications** 🤝💻  <br><br>- 🤝 I’m looking for help with **building scalable full-stack apps and exploring clean architecture** 🏗️⚡  
 
 
 # 💻 Tech Stack:
