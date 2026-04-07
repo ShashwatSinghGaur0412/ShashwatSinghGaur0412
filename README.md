@@ -39,9 +39,7 @@
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashwatsinghgaur0412&show_icons=true&locale=en&layout=compact" alt="GitHub stats" />/>
-</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" 
